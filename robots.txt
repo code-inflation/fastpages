@@ -1,0 +1,1 @@
+Sitemap: https://code-inflation.github.io/fastpages/sitemap.xml
